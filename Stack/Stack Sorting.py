@@ -14,8 +14,7 @@ s = []
 s.append(32)
 s.append(2)
 s.append(122)
-s.append(12)
-s.append(0)
+
 stackSort(s)
 
 while s:
